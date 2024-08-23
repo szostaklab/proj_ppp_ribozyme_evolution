@@ -1,5 +1,5 @@
 ### Preprocessing and figure creation
-The Python notebook performs the following steps to create Figure 5:
+The Python notebook performs the following steps:
 
 1. Filter the fastq files from each round of selection and retain only the high-quality sequences.
 2. Trim all the sequences to include only the region of interest, between the constant flanking regions.
