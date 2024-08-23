@@ -5,4 +5,4 @@ The Python notebook performs the following steps to create Figure 5:
 3. Plot Figure 5a, the number of sequences each distance from RS1 for each round
 4. Plot Figure 5b, the abundance of the sequences with >100 reads in CS3 over all rounds
 
-The data inputs include 1) the raw fastq files, 'ppp-1_S1_L001_R2_001.fastq', 'ppp-2_S2_L001_R2_001.fastq', 'ppp-3_S3_L001_R2_001.fastq', 'ppp-4_S4_L001_R2_001.fastq', 'ppp-5_S5_L001_R2_001.fastq', 'ppp-6_S6_L001_R2_001.fastq', and the clustered sequences.
+The data inputs include 1) the raw fastq files ('ppp-1_S1_L001_R2_001.fastq', 'ppp-2_S2_L001_R2_001.fastq', 'ppp-3_S3_L001_R2_001.fastq', 'ppp-4_S4_L001_R2_001.fastq', 'ppp-5_S5_L001_R2_001.fastq', 'ppp-6_S6_L001_R2_001.fastq') and the clustered sequences.
