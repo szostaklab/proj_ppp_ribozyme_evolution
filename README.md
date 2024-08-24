@@ -5,7 +5,7 @@ The Python notebook performs the following steps:
 2. Trim all the sequences to include only the region of interest, between the constant flanking regions.
 3. Plot the number of sequences each mutational distance from RS1 for each round.
 4. Plot the abundance of the sequences with >100 reads in CS3 over all rounds.
-5. Find single mutant paths starting from RS1 and CS3
+5. Find single mutant paths starting from RS1 and CS3.
 
 ### Data
 The raw data have the following filenames:
